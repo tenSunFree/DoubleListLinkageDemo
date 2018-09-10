@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pill">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>菲律賓</item>
+        <item>英國</item>
+        <item>澳洲</item>
+        <item>美國</item>
+        <item>加拿大</item>
+        <item>荷蘭</item>
+        <item>義大利</item>
+        <item>委內瑞拉</item>
+        <item>俄國</item>
+        <item>哥倫比亞</item>
+        <item>阿根廷</item>
+        <item>丹麥</item>
+        <item>烏克蘭</item>
+        <item>巴西</item>
+        <item>瑞典</item>
+    </string-array>
+
+    <string-array name="philippines">
+        <item>@drawable/philippines_01</item>
+        <item>@drawable/philippines_02</item>
+        <item>@drawable/philippines_03</item>
+        <item>@drawable/philippines_04</item>
+        <item>@drawable/philippines_05</item>
+    </string-array>
+
+    <string-array name="unitedKingdom">
+        <item>@drawable/united_kingdom_01</item>
+        <item>@drawable/united_kingdom_02</item>
+        <item>@drawable/united_kingdom_03</item>
+        <item>@drawable/united_kingdom_04</item>
+        <item>@drawable/united_kingdom_05</item>
+    </string-array>
+
+    <string-array name="australia">
+        <item>@drawable/australia_01</item>
+        <item>@drawable/australia_02</item>
+        <item>@drawable/australia_03</item>
+        <item>@drawable/australia_04</item>
+        <item>@drawable/australia_05</item>
+    </string-array>
+
+    <string-array name="unitedStates">
+        <item>@drawable/united_states_01</item>
+        <item>@drawable/united_states_01</item>
+        <item>@drawable/united_states_01</item>
+        <item>@drawable/united_states_01</item>
+        <item>@drawable/united_states_01</item>
+    </string-array>
+
+    <string-array name="canada">
+        <item>@drawable/canada_01</item>
+        <item>@drawable/canada_01</item>
+        <item>@drawable/canada_01</item>
+        <item>@drawable/canada_01</item>
+        <item>@drawable/canada_01</item>
+    </string-array>
+
+    <string-array name="netherlands">
+        <item>@drawable/netherlands_01</item>
+        <item>@drawable/netherlands_01</item>
+        <item>@drawable/netherlands_01</item>
+        <item>@drawable/netherlands_01</item>
+        <item>@drawable/netherlands_01</item>
+    </string-array>
+
+    <string-array name="italy">
+        <item>@drawable/italy_01</item>
+        <item>@drawable/italy_01</item>
+        <item>@drawable/italy_01</item>
+        <item>@drawable/italy_01</item>
+        <item>@drawable/italy_01</item>
+    </string-array>
+
+    <string-array name="venezuela">
+        <item>@drawable/venezuela_01</item>
+        <item>@drawable/venezuela_01</item>
+        <item>@drawable/venezuela_01</item>
+        <item>@drawable/venezuela_01</item>
+        <item>@drawable/venezuela_01</item>
+    </string-array>
+
+    <string-array name="russia">
+        <item>@drawable/russia_01</item>
+        <item>@drawable/russia_01</item>
+        <item>@drawable/russia_01</item>
+        <item>@drawable/russia_01</item>
+        <item>@drawable/russia_01</item>
+    </string-array>
+
+    <string-array name="colombia">
+        <item>@drawable/colombia_01</item>
+        <item>@drawable/colombia_02</item>
+        <item>@drawable/colombia_03</item>
+        <item>@drawable/colombia_04</item>
+        <item>@drawable/colombia_05</item>
+    </string-array>
+
+    <string-array name="argentina">
+        <item>@drawable/argentina_01</item>
+        <item>@drawable/argentina_02</item>
+        <item>@drawable/argentina_03</item>
+        <item>@drawable/argentina_04</item>
+        <item>@drawable/argentina_05</item>
+    </string-array>
+
+    <string-array name="denmark">
+        <item>@drawable/denmark_01</item>
+        <item>@drawable/denmark_02</item>
+        <item>@drawable/denmark_03</item>
+        <item>@drawable/denmark_04</item>
+        <item>@drawable/denmark_05</item>
+    </string-array>
+
+    <string-array name="ukraine">
+        <item>@drawable/ukraine_01</item>
+        <item>@drawable/ukraine_01</item>
+        <item>@drawable/ukraine_01</item>
+        <item>@drawable/ukraine_01</item>
+        <item>@drawable/ukraine_01</item>
+    </string-array>
+
+    <string-array name="brazil">
+        <item>@drawable/brazil_01</item>
+        <item>@drawable/brazil_01</item>
+        <item>@drawable/brazil_01</item>
+        <item>@drawable/brazil_01</item>
+        <item>@drawable/brazil_01</item>
+    </string-array>
+
+    <string-array name="sweden">
+        <item>@drawable/sweden_01</item>
+        <item>@drawable/sweden_01</item>
+        <item>@drawable/sweden_01</item>
+        <item>@drawable/sweden_01</item>
+        <item>@drawable/sweden_01</item>
+    </string-array>
+</resources>
